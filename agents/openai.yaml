@@ -1,0 +1,4 @@
+interface:
+  display_name: "紫色咨询风格 PPT"
+  short_description: "将文字与数据重构为带语义图标的紫色咨询风格专业PPT"
+  default_prompt: "Use $vision-consulting-ppt to turn my draft into a polished consulting-style PowerPoint with Simplified Chinese, 22 pt slide titles, and semantically matched outline icons beside relevant stages or headings."
